@@ -1,5 +1,5 @@
-flask
-pillow
-pyarabic
+Flask
+Pillow
+PyArabic
 arabic-reshaper
 python-bidi
