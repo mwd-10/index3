@@ -110,7 +110,7 @@ def download_card():
     # 3. إعداد الخطوط داخل الدالة
 # 3. إعداد الخطوط داخل الدالة
     import os
-    BASE_DIR = os.path.dirname(os.path.abspath(_file_))
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
     try:
         font_poem = ImageFont.truetype(
